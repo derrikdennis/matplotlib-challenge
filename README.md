@@ -5,6 +5,10 @@
 What good is data without a good plot to tell the story?
 In this assignment, I took on the role of of a data scientist, working for Pymaceuticals, Inc. a burgeoning pharmaceutical company.
 The company began screening for potential treatments for squamous cell carcinoma(SCC), a commonly occurring form of skin cancer.
+I've been given to the complete data from their most recent study covering 250 mie idetntifed with SCC tumor growth.
+Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Capomulin versus the other treatment reignemnts.
+I have asked to generall all of the tables and figures needed for the technical report of the study.
+The executive team also hased for a top-level summary of the study results.
 
 These are my three inferences or observations of the data:
 
