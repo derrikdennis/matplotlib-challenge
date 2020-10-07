@@ -1,5 +1,7 @@
 # Matplotlib - The Power of Plots
 
+If you would like to see my finding, please scroll down to the findings section.
+
 ## Background
 
 What good is data without a good plot to tell the story?
@@ -9,6 +11,19 @@ I've been given to the complete data from their most recent study covering 250 m
 Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Capomulin versus the other treatment reignemnts.
 I have asked to generall all of the tables and figures needed for the technical report of the study.
 The executive team also hased for a top-level summary of the study results.
+
+## Reporting Steps
+
+### Summary Statistics Table
+
+- I created a table including the following:
+  - Mean
+  - Median
+  - Variance
+  - Standard Deviation
+  - SEM of the tumor volume of each drug regimen
+
+## Findings
 
 These are my three inferences or observations of the data:
 
