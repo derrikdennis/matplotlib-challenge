@@ -1,6 +1,19 @@
-# Matplotlib - The Power of Plots
+# Matplotlib - The Power of Plots <!-- omit in toc -->
 
 If you would like to see my finding, please scroll down to the findings section.
+
+## Table of Contents <!-- omit in toc -->
+
+- [Background](#background)
+- [Reporting Steps](#reporting-steps)
+  - [Summary Statistics Table](#summary-statistics-table)
+  - [Bar plot](#bar-plot)
+  - [Pie plot](#pie-plot)
+  - [Box and whisker plot](#box-and-whisker-plot)
+  - [Line plot](#line-plot)
+  - [Scatter plot](#scatter-plot)
+  - [Linear regression model](#linear-regression-model)
+- [Findings](#findings)
 
 ## Background
 
