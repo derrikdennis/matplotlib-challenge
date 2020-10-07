@@ -23,25 +23,33 @@ The executive team also hased for a top-level summary of the study results.
   - Standard Deviation
   - SEM of the tumor volume of each drug regimen
 
-### Bar plot section
+### Bar plot
 
- - I generated bar plots showing the number of data points for each treatment regimen  This was done using:
-   - Matplotlib's pyplot
-   - Pandas' DataFrame.plot
+- I generated bar plots showing the number of data points for each treatment regimen This was done using:
+  - Matplotlib's pyplot
+  - Pandas' DataFrame.plot
 
-### Pie plot section
+### Pie plot
 
- - I generated pie plots showing the distribution of mice per gender using:
-   - Matplotlib's pyplot
-   - Pandas' DataFrame.plot
+- I generated pie plots showing the distribution of mice per gender using:
+  - Matplotlib's pyplot
+  - Pandas' DataFrame.plot
 
 ### Box and whisker plot
 
- - I caluclated the final tumor volume of each mouse across four of the most promising treatment regimens and used it to create a box and whisker plot.  The four regimens were:
-   - Capomulin
-   - Ramicane
-   - Infubinol
-   - Caftamin
+- I caluclated the final tumor volume of each mouse across four of the most promising treatment regimens and used it to create a box and whisker plot. The four regimens were:
+  - Capomulin
+  - Ramicane
+  - Infubinol
+  - Caftamin
+
+### Line plot
+
+- I created a line plot of time point versus averate tumor volume for the Capolmulin treatment regimen.
+
+### Scatter plot
+
+- I created a scatter plot of the mouse weight versus average tumor volume for the Capomulin treatment regimen.
 
 ## Findings
 
