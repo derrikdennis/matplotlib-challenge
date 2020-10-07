@@ -51,6 +51,10 @@ The executive team also hased for a top-level summary of the study results.
 
 - I created a scatter plot of the mouse weight versus average tumor volume for the Capomulin treatment regimen.
 
+### Linear regression model
+
+- I calculated the correlation coefficient and created a linear regression model between mouse weight and average tumor volume.
+
 ## Findings
 
 These are my three inferences or observations of the data:
