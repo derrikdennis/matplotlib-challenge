@@ -58,7 +58,7 @@ The executive team also hased for a top-level summary of the study results.
 
 ### Line plot
 
-- I created a line plot of time point versus averate tumor volume for the Capolmulin treatment regimen.
+- I created a line plot of time point versus average tumor volume for the Capolmulin treatment regimen.
 
 ### Scatter plot
 
