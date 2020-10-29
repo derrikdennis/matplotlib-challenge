@@ -1,4 +1,4 @@
-# Matplotlib - The Power of Plots <!-- omit in toc -->
+# The Power of Plots - Matplotlib Challenge <!-- omit in toc -->
 
 If you would like to see my finding, please scroll down to the findings section.
 
