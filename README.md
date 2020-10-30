@@ -42,6 +42,9 @@ The executive team also hased for a top-level summary of the study results.
   - Matplotlib's pyplot
   - Pandas' DataFrame.plot
 
+Here are the bar plots I generated:
+
+
 ### Pie plot
 
 - I generated pie plots showing the distribution of mice per gender using:
